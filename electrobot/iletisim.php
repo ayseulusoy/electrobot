@@ -231,12 +231,12 @@ else{
         $mail->Host = 'smtp.gmail.com';
         $mail->Port = '465';
         $mail->isHTML();
-        $mail->Username = 'mustafasah764@gmail.com';
-        $mail->Password = '486486486M';
-        $mail->SetFrom('mustafasah764@gmail.com');
+        $mail->Username = '123@gmail.com';
+        $mail->Password = '123';
+        $mail->SetFrom('123@gmail.com');
         $mail->Subject = $Subject;
         $mail->Body = nl2br("$headers \n\n $Message");
-        $mail->AddAddress('mustafasah45@gmail.com');
+        $mail->AddAddress('1234@gmail.com');
 
         if (!$mail->send()) {
             echo 'Mailer Error: '. $mail->ErrorInfo;
@@ -244,7 +244,7 @@ else{
             
         }
 
-        //mail("mustafasah45@gmail.com",$Subject,$Message,$headers);
+        //mail("1234@gmail.com",$Subject,$Message,$headers);
     }
     else{
         echo '<script language="javascript">alert("Please fill the empty place!!!")</script>';
