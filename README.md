@@ -1,7 +1,7 @@
 # electrobot
- E-ticaret Ekip Projesi
+E-TİCARET EKİP PROJESİ
  
-Grup Üyeleri ve Görevleri
+GRUP ÜYELERİ VE GÖREVLERİ
 
 Ahmet Batuhan YILMAZ: Frontend, Graphic Design
 
@@ -16,7 +16,7 @@ Yusuf GÜLBİN: Frontend
 Hasan ARPAT: Testing and Bug Fixing
 
 
-Genel Bilgiler
+GENEL BİLGİLER
 
 Frontend: HTML, CSS, JAVASCRIPT
 
