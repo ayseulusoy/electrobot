@@ -1,9 +1,9 @@
 # electrobot
-E-TİCARET EKİP PROJESİ
+#E-TİCARET EKİP PROJESİ
  
 GRUP ÜYELERİ VE GÖREVLERİ
 
-Ahmet Batuhan YILMAZ: Frontend, Graphic Design
+Ahmet Batuhan YILMAZ --> Frontend, Graphic Design
 
 Tayyip COŞKUN: Frontend, Backend, Database
 
