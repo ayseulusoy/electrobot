@@ -3,9 +3,9 @@
  
 GRUP ÜYELERİ VE GÖREVLERİ
 
-Ahmet Batuhan YILMAZ: Frontend, Graphic Design
+Ahmet Batuhan YILMAZ: Frontend
 
-Tayyip COŞKUN: Frontend, Backend, Database
+Tayyip COŞKUN: Frontend, Backend
 
 Ayşe ULUSOY: Frontend, Backend
 
